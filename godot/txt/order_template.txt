@@ -1,0 +1,19 @@
+Hello Store Owner,
+
+I would like to purchase the following item:
+Product: {prod_name} ({prod_id})
+Price: {prod_price}
+Item ID: {prod_id}
+
+--- CUSTOMER DETAILS ---
+Name: {name}
+Email: {email}
+Shipping Address:
+{address}
+
+--- PAYMENT VERIFICATION ---
+Payment Tracking ID: {order_id}
+Payment Type: {pay_type}
+Sender Account Name / ID: {acc_name}
+
+Please verify my payment and confirm shipping!
